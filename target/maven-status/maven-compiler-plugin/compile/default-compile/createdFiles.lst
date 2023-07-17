@@ -1,0 +1,7 @@
+com\example\plugin\MainUtils.class
+com\example\plugin\command\togli.class
+com\example\plugin\command\SSCommand.class
+com\example\plugin\command\ridai.class
+com\example\plugin\command\SSFinish.class
+com\example\plugin\listeners\SSPlayerQuitListener.class
+com\example\plugin\ScreenShare.class

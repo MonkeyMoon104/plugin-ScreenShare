@@ -1,0 +1,18 @@
+name: Better_SS
+version: '1.0-SNAPSHOT'
+main: com.example.plugin.ScreenShare
+author: MonkeyMoon104 & Astronauta 404
+api-version: '1.19'
+commands:
+  ss:
+    description: Inizia il controllo ss
+    usage: /ss
+  finish_ss:
+    description: Finisce il controllo ss
+    usage: /finish_ss
+  ridai:
+    description: Ridai l'inventario
+    usage: /ridai
+  togli:
+    description: Togli l'inventario
+    usage: /togli
